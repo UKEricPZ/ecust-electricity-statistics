@@ -8,4 +8,4 @@ detail = true
 warning = 10
 
 # 是否**仅**在电量小于阈值时推送警告信息
-push_warning_only = true
+push_warning_only = false
